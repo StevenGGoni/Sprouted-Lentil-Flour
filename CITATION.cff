@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Steven
+    given-names: García Goñi
+    orcid: https://orcid.org/0000-0002-1822-5465
+title: StevenGGoni/Sprouted-Lentil-Flour: Sprouted-Lentil-Flour
+version: v.1.0.0
+date-released: 2023-02-10
